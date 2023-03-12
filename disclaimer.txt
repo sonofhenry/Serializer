@@ -1,3 +1,0 @@
-The Disclaimer for the Serializer java library
-
-The object names and spelling are in respect of US English
